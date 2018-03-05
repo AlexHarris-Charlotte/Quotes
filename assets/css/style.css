@@ -17,6 +17,10 @@ a {
     float: right;
 }
 
+a:link {
+    text-decoration: none;
+}
+
 .clearfix {
     content: "";
     clear: both;
