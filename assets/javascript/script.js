@@ -1,4 +1,3 @@
-// Need to reach out to API to get a random Quote
 // Give the user the option to save the quote
 // If the user saves a quote, we can display it somewhere on the page
 // Use Fire base database for persisting data. 
