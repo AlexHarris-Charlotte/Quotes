@@ -1,3 +1,7 @@
+#quoteButton {
+    margin: 0 auto;
+}
+
 .contentDiv {
     margin: 20px 0;
 }
@@ -9,4 +13,12 @@
 a {
     display: block;
     margin: 25px 10% 0 0;
+    width: 105px;
+    float: right;
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+    display: table;
 }
